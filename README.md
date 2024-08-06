@@ -7,3 +7,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 Você pode entrar em contato comigo 📫
 
 giuliamarzano1006@email.com
+
+
+ ![](https://media1.tenor.com/m/eJqwyLVI7bwAAAAC/rupphire-ruby-and-sapphire.gif)
+ 
