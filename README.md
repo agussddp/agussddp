@@ -13,7 +13,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agussddp&bg_color=00000&title_color=90D5FF&color=6495ED&line=9AA7D0&point=5aa3db&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agussddp&theme=transparent&row=2&no-bg=false&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=agussddp&theme=transparent&row=2&no-bg=true&table=3&margin-w=15&margin-h=15" />
 </p>
  
 
