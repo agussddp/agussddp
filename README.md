@@ -2,12 +2,11 @@
 
 <div>
 <a href="https://github.com/agussddp">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agussddp&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" 
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agussddp&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agussddp&layout=compact&langs_count=16&theme=transparent"/>
 
 
- 
+ https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
 
 - 🔭 Atualmente estou estudando Git e Github
