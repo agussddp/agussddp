@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=778899&height=67&section=header"/>
-</p>
 
 
 ## Oi! Sou Giulia Marzano
