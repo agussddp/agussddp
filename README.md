@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I+study+analysis+and+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<div>
+<div align="center">  
 <a href="https://github.com/agussddp">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agussddp&border_radius=4.5&title_color=90D5FF&show_icons=true&icon_color=9AA7D0&text_color=DCDCDC&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agussddp&layout=compact&langs_count=17&border_radius=4.5&title_color=90D5FF&icon_color=90D5FF&text_color=DCDCDC&theme=dark"/>
