@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=778899&height=75&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=778899&color=FFFFFF&height=75&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=35&center=true&vCenter=true&width=1000&lines=I+study+systems+development+at+SENAI;Take+a+look+here+:%29)](https://git.io/typing-svg) 
 
@@ -23,4 +23,4 @@
 </p>
  </div>
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=67&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=75&section=footer"/>
