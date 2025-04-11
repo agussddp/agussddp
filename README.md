@@ -27,4 +27,4 @@
 <p align="center"><image align="center" fonte="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg"/></p>
 <br</>divisão>
 
-<imagem largura=100% fonte="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&seitaion=rodapé"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=67&section=baseboard"/>
