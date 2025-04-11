@@ -24,7 +24,8 @@
  </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitors Count</b></p> src="https://github-readme-stats.vercel.app/api? 
+  text_color=DCDCDC
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{agussddp}/count.svg" /></p> 
 <br></div>
  
