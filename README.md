@@ -21,12 +21,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=agussddp&theme=transparent&row=2&no-bg=true&table=3&margin-w=15&margin-h=15" />
 </p>
+ </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<br></div>
  
-<div align="center">  
-<br><p align="center"><b>Visitor count</div>b</>p>
-<p align="center"><image align="center" fonte="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg"/></p>
-<br</>divisão>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=67&section=baseboard"/>
-
-
