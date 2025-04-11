@@ -8,7 +8,7 @@
 - 🔭 Atualmente estou estudando Git e Github
 - 💬 Contato com giuliamarzano1006@gmail.com
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=778899&height=65&section=header"/>
+<div></div>
 
 <div align="center">  
 <a href="https://github.com/agussddp">
