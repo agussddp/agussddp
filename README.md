@@ -24,10 +24,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=agussddp&theme=transparent&row=2&no-bg=true&table=3&margin-w=15&margin-h=15" />
 </p>
  </div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{agussddp}/count.svg" /></p> 
-<br></div>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=67&section=footer"/>
