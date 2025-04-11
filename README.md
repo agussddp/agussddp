@@ -7,7 +7,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=778899&height=67&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9ed8ff&size=35&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Giulia+Marzano;I+study+systems+development+at+SENAI;Take+a+look+here+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d3d3d3&size=35&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Giulia+Marzano;I+study+systems+development+at+SENAI;Take+a+look+here+:%29)](https://git.io/typing-svg) 
 
 
 <div align="center">  
