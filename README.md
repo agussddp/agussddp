@@ -22,4 +22,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=agussddp&theme=transparent&row=2&no-bg=true&table=3&margin-w=15&margin-h=15" />
 </p>
  
+<div align="center">  
+<br><p align="center"><b>Visitor count</div>b</>p>
+<p align="center"><image align="center" fonte="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg"/></p>
+<br</>divisão>
 
+<imagem largura=100% fonte="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&seitaion=rodapé"/>
