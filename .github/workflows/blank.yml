@@ -1,9 +1,9 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-# ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+# ![snake gif](https://github.com/agussddp/agussddp/blob/output/github-contribution-grid-snake.gif)
 
 name: Generate Snake
-
+env: dark
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
@@ -18,7 +18,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: rafaballerini
+          github_user_name: agussddp
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
