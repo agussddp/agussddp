@@ -5,7 +5,8 @@
 
 ## Oi! Sou Giulia Marzano!  ![](https://komarev.com/ghpvc/?username=agussddp&style=for-the-badge)
 
-- 🔭 Atualmente estou estudando Lógica de Programação
+- 🔭 Atualmente estou estudando UI & UX (Desing)
+- 🦾 Iniciando na linguagem C#
 - 💬 Contato com giuliamarzano1006@gmail.com
 
 <div></div>
