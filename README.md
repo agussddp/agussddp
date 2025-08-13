@@ -27,3 +27,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b0c4de&height=75&section=footer"/>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agussddp/agussddp/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agussddp/agussddp/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agussddp/agussddp/output/pacman-contribution-graph.svg">
+</picture>
+
+
