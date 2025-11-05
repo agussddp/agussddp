@@ -26,23 +26,14 @@
     <tr>
       <th width="10%">💻 Back-end</th>
       <th width="10%">🎨 Front-end</th>
-      <th width="10%">📚 Frameworks</th>
-      <th width="10%">🧪 Testes Unitários</th>
       <th width="10%">🧰 IDE's</th>
       <th width="10%">🗄️ Banco de Dados</th>
-      <th width="10%">☁️ DevOps</th>
-      <th width="10%">⚙️ Build Tools</th>
       <th width="10%">🧪 Outras Tecnologias</th>
       <th width="10%">🎯 Em Aprendizado</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python logo" /><br>Python
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java logo" /><br>Java
-      </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5 logo" /><br>HTML5
         <br><br>
