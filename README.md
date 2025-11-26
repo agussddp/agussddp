@@ -17,21 +17,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agussddp&layout=compact&langs_count=17&border_radius=4.5&title_color=90D5FF&icon_color=90D5FF&text_color=DCDCDC&theme=dark"/>
 
 
-### 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
-
-<table style="background-color: white; border-collapse: collapse; width: 100%;">
-  <thead>
-    <tr>
-      <th width="10%">💻 Back-end</th>
-      <th width="10%">🎨 Front-end</th>
-      <th width="10%">🧰 IDE's</th>
-      <th width="10%">🗄️ Banco de Dados</th>
-      <th width="10%">🧪 Outras Tecnologias</th>
-      <th width="10%">🎯 Em Aprendizado</th>
-  </tbody>
-</table>
 
 </div>
 
