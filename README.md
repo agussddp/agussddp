@@ -5,8 +5,8 @@
 
 ## Oi! Sou Giulia Marzano!  ![](https://komarev.com/ghpvc/?username=agussddp&style=for-the-badge)
 
-- 🔭 Atualmente estou estudando C#
-- 🦾 Iniciando na linguagem C# / html / css
+- 🔭 Atualmente estou estudando Javascript 
+- 🦾 Iniciante nas linguagens C# / html / css / javascript 
 - 💬 Contato com giuliamarzano1006@gmail.com
 
 <div></div>
