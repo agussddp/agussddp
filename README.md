@@ -19,8 +19,9 @@
 
 
 
-<div align="center">
-  <img src="L.Windows.gif" width="450"/>
+
+  <div align="center">
+  <img src="L.gif" width="450"/>
 
 
 
