@@ -12,7 +12,7 @@
 <div></div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=agussddp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=agussddp&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agussddp&layout=compact&theme=transparent"/>
 
