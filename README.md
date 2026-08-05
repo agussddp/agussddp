@@ -20,7 +20,7 @@
 
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/96/50/d9/9650d93a369a325b1410309ce5d0e96f.gif" width="850"/>
+  <img src="L.Windows.gif" width="850"/>
 
 
 
