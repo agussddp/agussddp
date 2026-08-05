@@ -9,11 +9,12 @@
 - 🦾 Iniciante nas linguagens C# / html / css / javascript 
 - 💬 Contato com giuliamarzano1006@gmail.com
 
-<div>                                                       
-
-</div>
-
 <div></div>
+
+
+<div align="center">
+  <img src="L.Windows.gif" width="200" height="400"/>
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=agussddp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
