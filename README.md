@@ -21,7 +21,7 @@
 
 
   <div align="center">
-  <img src="L.gif" width="450"/>
+  <img src="L.gif" width="650"/>
 
 
 
