@@ -32,7 +32,7 @@
 
 
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=778899&color=7EB5EB&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=341dac&color=481b72&section=footer"/>
 
 
 
