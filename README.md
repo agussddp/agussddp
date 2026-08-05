@@ -20,7 +20,7 @@
 
 
 <div align="center">
-  <img src="L.Windows.gif" width="850"/>
+  <img src="L.Windows.gif" width="450"/>
 
 
 
