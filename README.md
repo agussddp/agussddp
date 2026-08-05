@@ -10,7 +10,8 @@
 - 💬 Contato com giuliamarzano1006@gmail.com
 
 <div></div>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=341dac&color=481b72&height=50&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=341dac&color=481b72&section=middle"/>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=agussddp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
