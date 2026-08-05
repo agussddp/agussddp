@@ -17,15 +17,11 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agussddp&layout=compact&theme=tokyonight"/>
 
 
-
-
-  
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agussddp&bg_color=00000&title_color=90D5FF&color=00bfff&line=d5e3f6&point=5c7ba3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/96/50/d9/9650d93a369a325b1410309ce5d0e96f.gif" width="850"/>
-</div>
+
 
 
 
